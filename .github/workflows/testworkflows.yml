@@ -1,0 +1,5 @@
+name:Run Java script
+
+on:push
+
+jobs:
